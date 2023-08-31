@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial;
+    color: rgba(92, 209, 255, 0.669);
+}
+
+body {
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+}
+
+nav {
+    background-color: #000000;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+}
+
+nav a {
+    color: rgba(92, 209, 255, 0.669);
+    text-decoration: none;  /*Unterstrichen*/
+    padding: 10px;
+    display: inline-block;
+}
+
+
